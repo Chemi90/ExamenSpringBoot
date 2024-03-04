@@ -1,0 +1,2 @@
+### Obtener clientes con ventas mayores a un valor específico
+GET http://localhost:8080/clientes/ventas?ventas=500&token=t0k3n

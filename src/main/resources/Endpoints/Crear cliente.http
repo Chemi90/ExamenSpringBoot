@@ -1,0 +1,9 @@
+### Crear un nuevo cliente
+POST http://localhost:8080/clientes/?token=t0k3n
+Content-Type: application/json
+
+{
+  "nombre": "Bonito García",
+  "estado": "inactivo",
+  "total": 530.89
+}

@@ -1,0 +1,2 @@
+### Obtener datos de un cliente específico por ID
+GET http://localhost:8080/clientes/3?token=t0k3n

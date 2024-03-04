@@ -1,0 +1,2 @@
+### Obtener estadísticas
+GET http://localhost:8080/clientes/estadisticas?token=t0k3n
